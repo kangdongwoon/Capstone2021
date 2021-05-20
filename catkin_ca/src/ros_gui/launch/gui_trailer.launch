@@ -1,0 +1,8 @@
+<launch>
+
+<node pkg="ros_gui" type="gui_trailer" name="gui_trailer">
+</node>
+<node pkg="ros_serial" type="image_node" name="image_node" output="screen">
+</node>
+
+</launch>

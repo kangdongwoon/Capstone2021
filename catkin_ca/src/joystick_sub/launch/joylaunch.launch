@@ -1,0 +1,16 @@
+<launch>
+  <!--node
+    name="spawn_model"
+    pkg="gazebo_ros"
+    type="spawn_model"
+    args="-file $(find car_sample)/urdf/car_sample.urdf -urdf -model car_sample -urdf -x 2 -y 1.5 -z 0 -model robot"
+    output="screen" /-->
+  <node
+    name="joy_node"
+    pkg="joystick_sub"
+    type="joy_node" />
+  <node
+    name="sim_node"
+    pkg="joystick_sub"
+    type="sim_node" />
+</launch>
