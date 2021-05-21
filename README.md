@@ -38,7 +38,7 @@
 4. GUI Integration (Rear Camera + User Steering)
     
 ## System Architecture
-<img src="https://user-images.githubusercontent.com/52377778/86989541-962dcc00-c1d5-11ea-8c95-35a59bc03dde.PNG" width="800" height="500" />  
+<img src="https://user-images.githubusercontent.com/52377778/119155218-e6301d00-ba8d-11eb-9af1-eb3f155e81ed.PNG" width="800" height="500" />  
     
 ## Project GIF
 Gazebo Simulation
