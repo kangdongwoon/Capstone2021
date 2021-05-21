@@ -3,7 +3,7 @@
 ## Project : Trailer Reversing Assistance System Considering Driver Input (feat.Capstone)  
   
 지도 교수 : 백주훈 교수님  
-참여 인원 : 강동운, 백승혁, 김예린, 이혜진
+참여 인원 : 강동운, 백승혁, 김예린, 이혜진  
 참여 기간 : 2021.1 ~ 2021.6
 
 ## Development Background 
