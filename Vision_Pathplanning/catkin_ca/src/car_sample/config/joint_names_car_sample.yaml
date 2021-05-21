@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'potential_link_joint', 'L_joint', 'R_joint', 'LF_joint', 'LR_joint', 'RF_joint', 'RR_joint', ]
