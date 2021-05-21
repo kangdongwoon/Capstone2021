@@ -19,8 +19,8 @@
 5. 차량 - 트레일러 각도 측정모듈 제작
 
 ## Hardware
-1. Wego-HT
-
+1. Wego-HT  
+![HT-V2](https://user-images.githubusercontent.com/52377778/119153611-5ccc1b00-ba8c-11eb-876d-c597b88c0a27.jpg)  
 2. Trailer
 
 3. 각도 측정 모듈
