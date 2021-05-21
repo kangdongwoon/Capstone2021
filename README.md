@@ -42,10 +42,12 @@
     
 ## Project GIF
 Gazebo Simulation  
-(https://user-images.githubusercontent.com/52377778/119157432-255f6d80-ba90-11eb-9dc8-57f5ec2f564a.gif)  
+![UserSteeringFollowing_GazeboSimulation_gif](https://user-images.githubusercontent.com/52377778/119159621-635d9100-ba92-11eb-9732-b22b2bbad0a3.gif)
 
 Real World Implementation  
-(https://user-images.githubusercontent.com/52377778/119159363-1aa5d800-ba92-11eb-83be-0cfb2b7ccd0e.gif)  
+![UserSteeringFollowing_Path2_gif](https://user-images.githubusercontent.com/52377778/119159617-6062a080-ba92-11eb-881e-7c8f3d8d3cdc.gif)
+
+
 
 
 
