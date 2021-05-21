@@ -20,8 +20,11 @@
 
 ## Hardware
 1. Wego-HT  
-![HT-V2](https://user-images.githubusercontent.com/52377778/119153611-5ccc1b00-ba8c-11eb-876d-c597b88c0a27.jpg)  
+<img src="https://user-images.githubusercontent.com/52377778/119153611-5ccc1b00-ba8c-11eb-876d-c597b88c0a27.jpg" width="500" height="300" />   
+
 2. Trailer
+<img src="https://user-images.githubusercontent.com/52377778/119154036-c0564880-ba8c-11eb-8ff5-8c72b351eaad.jpg" width="200" height="250" />
+<img src="https://user-images.githubusercontent.com/52377778/119154064-c77d5680-ba8c-11eb-8286-b965e17b3e2e.jpg" width="350" height="250" />  
 
 3. 각도 측정 모듈
   
