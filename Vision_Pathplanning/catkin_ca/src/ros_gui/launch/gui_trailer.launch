@@ -1,0 +1,17 @@
+<launch>
+
+    <!--<node name="uvc_camera_node" pkg="uvc_camera" type="uvc_camera_node">
+    </node>-->
+    <node name="joy_node" pkg="joystick_sub" type="joy_node">
+    </node>
+    <node name="sim_node" pkg="joystick_sub" type="sim_node">
+    </node>
+    <node name="image_node" pkg="ros_gui" type="image_node" >
+    </node>
+
+    <node name="trailer_ui" pkg="ros_gui" type="trailer_ui">
+    </node>
+
+    <!--<include file="$(find car_sample)/launch/trailer.launch">
+    </include>-->
+</launch>

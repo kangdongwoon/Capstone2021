@@ -1,0 +1,13 @@
+<launch>
+    <node name="image_node" pkg="ros_gui" type="image_node" >
+    </node>
+    <node name="trailer_ui" pkg="ros_gui" type="trailer_ui">
+    </node>
+    <node name="predefined_path_planning" pkg="Predefined_Path" type="predefined_path_planning">
+    </node>
+    <node name="inverse_kinematics_auto" pkg="AutoDrive" type="inverse_kinematics_auto" output="screen">
+    </node>
+
+    <include file="$(find robot_pose_ekf)/robot_pose_ekf.launch">
+    </include>
+</launch>

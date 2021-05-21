@@ -1,0 +1,11 @@
+<launch>
+  <node
+    name="joy_node"
+    pkg="joystick_sub"
+    type="joy_node" />
+  <node
+    name="sim_node"
+    pkg="joystick_sub"
+    type="sim_node"
+    output="screen" />
+</launch>

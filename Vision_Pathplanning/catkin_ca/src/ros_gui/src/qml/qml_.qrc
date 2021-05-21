@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>gui.qml</file>
+        <file>Status.ui.qml</file>
+        <file>TrailerUI.ui.qml</file>
+        <file>InnerRing.qml</file>
+        <file>Needle.qml</file>
+        <file>SpeedNeedle.qml</file>
+        <file>Speedometer.qml</file>
+
+        <file>Cameras.ui.qml</file>
+        <file>MiniTrailer.qml</file>
+        <file>MiniTrailerWheel.qml</file>
+    </qresource>
+</RCC>
